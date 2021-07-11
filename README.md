@@ -1,1 +1,2 @@
 # Eye-led-
+Series Connection: The eye led is connected in series. The most efficient way to run high power LEDs is using a series circuit with a constant current LED driver. Running a series circuit helps to provide the same amount of current to each LED. This means each LED in the circuit will be the same brightness and will not allow a single LED to hog more current than another. When each LED is receiving the same current it helps eliminate issues like thermal runaway.
